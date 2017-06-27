@@ -1,2 +1,2 @@
 # VetClinic
-cms using python and flask and mongodb
+cms using MongoDB with Python's Framework
